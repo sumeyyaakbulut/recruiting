@@ -1,0 +1,11 @@
+C:\Users\CİHAT\Source\Repos\job application evaluation\job application evaluation\bin\Debug\netcoreapp3.0\job application evaluation.exe
+C:\Users\CİHAT\Source\Repos\job application evaluation\job application evaluation\bin\Debug\netcoreapp3.0\job application evaluation.deps.json
+C:\Users\CİHAT\Source\Repos\job application evaluation\job application evaluation\bin\Debug\netcoreapp3.0\job application evaluation.runtimeconfig.json
+C:\Users\CİHAT\Source\Repos\job application evaluation\job application evaluation\bin\Debug\netcoreapp3.0\job application evaluation.runtimeconfig.dev.json
+C:\Users\CİHAT\Source\Repos\job application evaluation\job application evaluation\bin\Debug\netcoreapp3.0\job application evaluation.dll
+C:\Users\CİHAT\Source\Repos\job application evaluation\job application evaluation\bin\Debug\netcoreapp3.0\job application evaluation.pdb
+C:\Users\CİHAT\Source\Repos\job application evaluation\job application evaluation\obj\Debug\netcoreapp3.0\job application evaluation.csprojAssemblyReference.cache
+C:\Users\CİHAT\Source\Repos\job application evaluation\job application evaluation\obj\Debug\netcoreapp3.0\job application evaluation.AssemblyInfoInputs.cache
+C:\Users\CİHAT\Source\Repos\job application evaluation\job application evaluation\obj\Debug\netcoreapp3.0\job application evaluation.AssemblyInfo.cs
+C:\Users\CİHAT\Source\Repos\job application evaluation\job application evaluation\obj\Debug\netcoreapp3.0\job application evaluation.dll
+C:\Users\CİHAT\Source\Repos\job application evaluation\job application evaluation\obj\Debug\netcoreapp3.0\job application evaluation.pdb
